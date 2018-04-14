@@ -1,0 +1,14 @@
+{
+   "imports_sdk": {
+       "triggers_min_version": "4.2.0",
+       "cpruntime_min_version": "2.0.0"
+     },
+   "application": {
+       "name": "557f2b529",
+       "id": "557f2b529-938166998",
+       "version": "1.0.0",
+       "type": "CP_ANDROID",
+       "is_companion_app": false
+     },
+   "schema_version": "1.0"
+ }

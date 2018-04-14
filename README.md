@@ -1,2 +1,1 @@
-# app
-Verifone Application
+# CarbonChainPOS_V1.0
